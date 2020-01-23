@@ -4,7 +4,7 @@
 
 # Description
 
-#### Psychic game is a vanilla JavaScript program demonstrating JavaScript basics such as DOM manipulation and a random number generator
+#### Psychic game is a vanilla JavaScript program demonstrating JavaScript basics including DOM manipulation and a random number generator
 
 # Tech Used
 
