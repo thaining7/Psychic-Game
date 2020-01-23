@@ -1,5 +1,7 @@
 # Psychic Game
 
+https://thaining7.github.io/Psychic-Game/
+
 #### Guess a random letter, try to earn points!
 
 # Description
