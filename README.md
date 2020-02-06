@@ -2,18 +2,18 @@
 
 https://thaining7.github.io/Psychic-Game/
 
-#### Guess a random letter, try to earn points!
+Guess a random letter, try to earn points!
 
-# Description
+## Description
 
-#### Psychic game is a vanilla JavaScript program demonstrating JavaScript basics including DOM manipulation and a random number generator
+Psychic game is a vanilla JavaScript program demonstrating JavaScript basics including DOM manipulation and a random number generator
 
-# Tech Used
+## Tech Used
 
 * JavaScript
 * HTML
 
-# How To Use
+## How To Use
 
 * Guess a random letter with the keyboard in an attempt to match the computer's random number
 * 9 wrong guesses results in a loss
